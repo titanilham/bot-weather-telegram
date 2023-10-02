@@ -26,6 +26,6 @@
     <img src="https://img.icons8.com/?size=512&id=13983&format=png"width="40" height="40" />
   </a>
   <a href="https://discord.com/channels/1019531122239094794/1019531122239094801">
-    <img src="https://icons8.ru/icon/30998/discord"width="40" />
+    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40" />
   </a>
 </div>
