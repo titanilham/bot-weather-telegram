@@ -1,2 +1,2 @@
-# bot-weather-telegram
+# bot-weather-telegram ⛅
 weather in aiogram
