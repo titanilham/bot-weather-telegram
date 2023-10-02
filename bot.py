@@ -35,7 +35,7 @@ async def get_weather(message: types.Message):
     
     await message.reply(f"Погода в городе: {city}\nТемпература: {cur_weather}C°\n"
             f"Ветер: {wind}м\с\n"
-            f"Восход солнца: {sunrise_timestamp}\nЗакат солнца: {sunset_timestamp}\nПродолжительность дня:{length_of_the_day}")
+            f"Восход солнца: {sunrise_timestamp}\nЗакат солнца: {sunset_timestamp}\nПродолжительность дня: {length_of_the_day}")
             
 
 
