@@ -1,6 +1,6 @@
 # Bot weather telegram ⛅
 
-## The bot for telegram which is written in aiogram, which shows the weather in any city.
+## The bot for telegram which is written in aiogram, which shows the weather in any city and wiki.
 
 ###
 
