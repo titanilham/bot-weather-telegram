@@ -14,6 +14,8 @@
 ### Preview:
 ![](https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot.png?raw=true)
 
+![](https://w7.pngwing.com/pngs/245/110/png-transparent-wikipedia-logo-wordmark-wikimedia-foundation-bolder-globe-text-logo.png)
+
 ---
 <div id="badges">
   <a href="https://vk.com/aniime_guy" >
