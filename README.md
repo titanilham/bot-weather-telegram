@@ -1,4 +1,5 @@
 # Bot weather telegram ⛅
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png" width="40" />
 
 ## The bot for telegram which is written in aiogram, which shows the weather in any city and wikipedia.
 
@@ -13,7 +14,7 @@
 
 ### Preview:
 ![](https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot.png?raw=true)
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png" width="40" />
+
 
 
 ---
