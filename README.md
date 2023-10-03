@@ -13,7 +13,6 @@
 
 ### Preview:
 ![](https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot.png?raw=true)
-
 ![](https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png)
 
 
