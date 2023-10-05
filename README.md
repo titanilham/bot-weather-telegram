@@ -13,8 +13,14 @@
 * [Wikipedia](https://pypi.org/project/wikipedia/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png" width="15" height="15"/>
 
 ### Preview:
+```
+"The name of the city"
+```
 ![](https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot.png?raw=true)
 ---
+```
+Aexiss "Question"
+```
 <img src="https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot2.png?raw=true" width="500" />
 
 
