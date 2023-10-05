@@ -14,7 +14,9 @@
 
 ### Preview:
 ![](https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot.png?raw=true)
+---
 <img src="https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot2.png?raw=true" width="500" />
+---
 
 ---
 <div id="badges">
