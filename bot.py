@@ -32,7 +32,7 @@ async def start_command(message: types.Message):
 
 @dp.message_handler(commands=["your_maker"])
 async def start_command(message: types.Message):
-    await message.reply("Мой создатель Мухаметгалеев Ильхам \U0001F970")
+    await message.reply("Мой создатель Ильхам \U0001F970")
 
 
 @dp.message_handler(commands=["help"])
