@@ -1,0 +1,4 @@
+aiogram==2.23.1
+requests==2.31.0
+wikipedia==1.4.0
+
