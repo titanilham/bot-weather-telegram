@@ -24,6 +24,12 @@ Aexiss "Question"
 ```
 <img src="https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot2.png?raw=true" width="500" />
 
+### Change of language:
+
+```python
+language = "ru"
+wikipedia.set_lang(language)
+```
 
 ---
 <div id="badges">
