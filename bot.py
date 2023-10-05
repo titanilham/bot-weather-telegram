@@ -30,7 +30,7 @@ async def start_command(message: types.Message):
 async def start_command(message: types.Message):
     await message.reply("https://github.com/titanilham/bot-weather-telegram")
 
-@dp.message_handler(commands=["your_maker"])
+@dp.message_handler(commands=["owner"])
 async def start_command(message: types.Message):
     await message.reply("Мой создатель Ильхам \U0001F970")
 
@@ -44,7 +44,7 @@ async def start_command(message: types.Message):
 /help
 /info
 /GitHub
-/your_maker
+/owner
 /who_is_god
                         """)
 
