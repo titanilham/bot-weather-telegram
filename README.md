@@ -1,4 +1,4 @@
-# Bot weather telegram ⛅
+![image](https://github.com/titanilham/bot-weather-telegram/assets/86422270/36018191-db9a-49cc-b4ef-6affa9c18f91)# Bot weather telegram ⛅
 
 
 ## The bot for telegram which is written in aiogram, which shows the weather in any city and wikipedia.
@@ -14,7 +14,7 @@
 
 ### Preview:
 ![](https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot.png?raw=true)
-
+![](https://github.com/titanilham/bot-weather-telegram/blob/main/Screenshot2.png?raw=true)
 
 
 ---
