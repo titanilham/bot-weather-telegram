@@ -27,7 +27,7 @@ Aexiss "Question"
 ### Change of language:
 
 ```python
-language = "ru"
+language = "ru" # russian language
 wikipedia.set_lang(language)
 ```
 
