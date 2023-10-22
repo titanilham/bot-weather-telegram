@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3>Изменить язык</h3>
-<strong> <a href="https://github.com/Em1tSan/NeuroGPT/blob/main/.github/README_RU.md">Русский</a> | English </strong>
+<strong> Русский | <a href="https://github.com/titanilham/bot-weather-telegram/blob/main/README.md">English </a></strong>
 </div>
 
 ###
