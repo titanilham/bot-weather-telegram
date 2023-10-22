@@ -3,7 +3,7 @@
 
 <div align="center">
 <h3>Choice of language</h3>
-<strong> Русский | <a href="https://github.com/Em1tSan/NeuroGPT#readme">English </a></strong>
+<strong> <a href="https://github.com/Em1tSan/NeuroGPT/blob/main/.github/README_RU.md">Русский</a> | English </strong>
 </div>
 
 ###
