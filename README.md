@@ -2,6 +2,7 @@
 # Telegram Bot ⛅
 
 <div align="center">
+###language
 <strong> Русский | <a href="https://github.com/Em1tSan/NeuroGPT#readme">English </a></strong>
 </div>
 
