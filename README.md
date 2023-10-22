@@ -1,3 +1,4 @@
+<div align="center">
 # Telegram Bot ⛅
 
 <strong> Русский | <a href="https://github.com/Em1tSan/NeuroGPT#readme">English </a></strong>
