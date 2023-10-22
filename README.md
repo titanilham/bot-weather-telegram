@@ -1,7 +1,9 @@
-<div align="center">
+
 # Telegram Bot ⛅
 
+<div align="center">
 <strong> Русский | <a href="https://github.com/Em1tSan/NeuroGPT#readme">English </a></strong>
+</div>
 
 ## The bot for telegram which is written in aiogram, which shows the weather in any city and wikipedia.
 
