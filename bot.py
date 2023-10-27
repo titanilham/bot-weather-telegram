@@ -73,7 +73,7 @@ async def get_weather(message: types.Message):
             await message.reply(wikipedia.summary((message.text).replace("Aexiss", "").lstrip()))
         except wikipedia.exceptions.PageError:
             await message.reply("Я не смог это найти(")
-
+            
 
     else:
         # Погода
