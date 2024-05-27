@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=30&pause=1000&color=028BF0&background=0071FF00&random=false&width=435&lines=Telegram+Bot"/>
+div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=30&pause=1000&color=028BF0&background=0071FF00&random=false&width=435&lines=Telegram+Bot&center=true"/>
+</div>
 
 <div align="center">
 <h3>Choice of language</h3>
