@@ -38,6 +38,11 @@ Aexiss "Question"
 language = "ru" # Russian language
 wikipedia.set_lang(language)
 ```
+### Module installation:
+
+```
+pip install -r requirements.txt
+```
 
 ---
 
